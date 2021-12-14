@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-11T20:34:42 PST" name="web.ui.automation.task1.testscripts.WebUIAutomationTest" finished-at="2021-12-11T20:34:52 PST" duration-ms="9442">
+    <groups>
+    </groups>
+    <test started-at="2021-12-11T20:34:42 PST" name="Command line test" finished-at="2021-12-11T20:34:52 PST" duration-ms="9442">
+      <class name="web.ui.automation.task1.testscripts.WebUIAutomationTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:web.ui.automation.task1.testscripts.WebUIAutomationTest@53ca01a2]" started-at="2021-12-11T20:34:42 PST" name="beforeClass" finished-at="2021-12-11T20:34:50 PST" duration-ms="7573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="verfiyPlayGround()[pri:0, instance:web.ui.automation.task1.testscripts.WebUIAutomationTest@53ca01a2]" started-at="2021-12-11T20:34:50 PST" name="verfiyPlayGround" finished-at="2021-12-11T20:34:51 PST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyPlayGround -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:web.ui.automation.task1.testscripts.WebUIAutomationTest@53ca01a2]" started-at="2021-12-11T20:34:51 PST" name="afterClass" finished-at="2021-12-11T20:34:52 PST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- web.ui.automation.task1.testscripts.WebUIAutomationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- web.ui.automation.task1.testscripts.WebUIAutomationTest -->
+</testng-results>
