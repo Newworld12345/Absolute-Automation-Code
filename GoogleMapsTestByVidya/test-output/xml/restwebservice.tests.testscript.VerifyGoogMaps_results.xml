@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.069">
+    <properties></properties>
+
+
+
+            <testcase
+                name="VerifyStatusCode"
+                time="0.141"
+                classname="restwebservice.tests.testscript.VerifyGoogMaps">
+            </testcase>
+            <testcase
+                name="VerifyDestAddress"
+                time="1.928"
+                classname="restwebservice.tests.testscript.VerifyGoogMaps">
+            </testcase>
+</testsuite>

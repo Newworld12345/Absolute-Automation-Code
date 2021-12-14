@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.017">
+    <properties></properties>
+
+
+
+            <testcase
+                name="destinationAddressVerification"
+                time="0.978"
+                classname="restwebservice.tests.testscript.VerifyDistanceMatrixAPIs">
+            </testcase>
+            <testcase
+                name="distanceValueVerification"
+                time="0.035"
+                classname="restwebservice.tests.testscript.VerifyDistanceMatrixAPIs">
+            </testcase>
+            <testcase
+                name="statusCodeVerification"
+                time="0.004"
+                classname="restwebservice.tests.testscript.VerifyDistanceMatrixAPIs">
+            </testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-13T21:08:39 PST" name="Default suite" finished-at="2021-12-13T21:08:43 PST" duration-ms="3934">
+    <groups>
+    </groups>
+    <test started-at="2021-12-13T21:08:39 PST" name="Default test" finished-at="2021-12-13T21:08:43 PST" duration-ms="3934">
+      <class name="restwebservice.tests.testscript.VerifyDistanceMatrixAPIs">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:restwebservice.tests.testscript.VerifyDistanceMatrixAPIs@78691363]" started-at="2021-12-13T21:08:39 PST" name="beforeClass" finished-at="2021-12-13T21:08:42 PST" duration-ms="2878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="destinationAddressVerification()[pri:0, instance:restwebservice.tests.testscript.VerifyDistanceMatrixAPIs@78691363]" started-at="2021-12-13T21:08:42 PST" name="destinationAddressVerification" finished-at="2021-12-13T21:08:43 PST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destinationAddressVerification -->
+        <test-method signature="distanceValueVerification()[pri:0, instance:restwebservice.tests.testscript.VerifyDistanceMatrixAPIs@78691363]" started-at="2021-12-13T21:08:43 PST" name="distanceValueVerification" finished-at="2021-12-13T21:08:43 PST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- distanceValueVerification -->
+        <test-method signature="statusCodeVerification()[pri:0, instance:restwebservice.tests.testscript.VerifyDistanceMatrixAPIs@78691363]" started-at="2021-12-13T21:08:43 PST" name="statusCodeVerification" finished-at="2021-12-13T21:08:43 PST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeVerification -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:restwebservice.tests.testscript.VerifyDistanceMatrixAPIs@78691363]" started-at="2021-12-13T21:08:43 PST" name="afterClass" finished-at="2021-12-13T21:08:43 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- restwebservice.tests.testscript.VerifyDistanceMatrixAPIs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
